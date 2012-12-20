@@ -1,7 +1,7 @@
-Course Outline
-################
+Biostatistics Outline
+#####################
 
-:date: 2012-10-30
+:date: 2012-12-20
 :summary: Course outline and boilerplate
 :category: overview
 :tags: overview, standards, grading
@@ -21,16 +21,22 @@ COURSE OUTLINE (2012-2013)
 COURSE DESCRIPTION:
 ===================
   
-This course is designed to provide students with the basic statistical concepts and techniques that will assist them in both their personal and professional lives.  Topics include measures of central tendency and dispersion, probability distribution of both discrete and continuous random variables, sampling distributions, estimation theory, and an introduction of hypothesis testing.
+This course is designed to provide students with basic statistical concepts and
+techniques, as they are applied to problems in biology, health sciences, and
+nutrition, that will assist them in both their personal and professional lives.
+Topics include data presentation and visualization, fitting models to data, testing, etc.   
+
 
 ==================
 COURSE OBJECTIVES:
 ==================
 
 Upon satisfactory completion of this course, the student should have the ability to:
+
 Organize and describe sets of quantitative data by constructing and interpreting graphs from a given data set and by calculating and interpreting measures of central tendency and dispersion from a given data set.
 
 Apply the fundamental concepts of random variables and probability distribution by constructing a probability distribution for a discrete random variable, calculating the probability of an event for a random variable having a normal distribution, and applying the Central Limit Theorem to sampling distributions.
+
 Apply the fundamental concepts of statistical inference by constructing and interpreting confidence intervals for population parameters and performing and interpreting hypothesis tests for large-sample means.
 
 ===============
