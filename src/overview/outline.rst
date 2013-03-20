@@ -43,6 +43,9 @@ Apply the fundamental concepts of statistical inference by constructing and inte
 CONTENT OUTLINE
 ===============
 
+
+
+
 -------------------------
 1. Descriptive Statistics
 -------------------------
@@ -50,23 +53,13 @@ CONTENT OUTLINE
    b. Organizing and picturing data
    c. Measures of central tendency
    d. Measures of dispersion
-   e. Chebyshev’s Theorem and the Empirical Rule
-   f. Means and standard deviation of grouped data
-   g. Measures of position – optional
+   e. Means and standard deviation of grouped data
 
---------------------------------
-2. Elementary Probability Theory
---------------------------------
-   a. Basic concepts – light treatment
-   b. The addition formula – light treatment
-   c. The multiplication formula and conditional probability – light treatment
-   d. Tree diagrams and the fundamental counting principle
-   e. Permutations and combinations
 
 --------------------------------------------
 3. Introduction to Probability Distributions
 --------------------------------------------
-   a. Basic concepts
+   a. Basic concepts, elementary probability
    b. Mean, variance, and expected value of a random variable
    c. The binomial distribution
    d. The Poisson Distribution – optional
@@ -82,27 +75,21 @@ CONTENT OUTLINE
    c. Estimating population proportions
    d. Determining the sample size
 
----------------------
-5. Hypothesis Testing
----------------------
+------------
+5. Modelling
+------------
    a. Introduction to the process
    b. Large-sample tests for the mean
-
-----------------------------------------
-6. Correlation and Regression – optional
-----------------------------------------
-   a. Linear correlation
-   b. Linear regression
+   c. Linear correlation
+   d. Linear regression
+   e. 
 
 
 **REQUIRED TEXT BOOK(S)/SOFTWARE** (to be purchased by students): 
-Providence, Denver:  Bluman, Elementary Statistics:  A Step by Step Approach, 8/e, McGraw-Hill, 2012.
-(Complete Version) 0073386103
-(Customize Version)  9780077925147
+The Practice of Statistics in the Life Sciences, 2/e, 2013. ISBN: 978-1-4292-7271-1
 
-North Miami:  Mello, Pandolfini, Statistics for Career Education, Kendall/Hunt, rev. ed., 2004, ISBN978-0-7575-1217-9
-Charlotte:  Larson, Farber, Elementary Statistics:  Picturing the World, 4/e, Prentice Hall, 2009
-A scientific or graphing calculator
+
+A scientific or graphing calculator, or laptop/tablet
 
 **EVALUATIVE CRITERIA:**	
 1. Periodic exams, quizzes, assignments

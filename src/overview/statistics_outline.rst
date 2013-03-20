@@ -1,5 +1,5 @@
 Statistics Outline
-#################
+##################
 
 :date: 2012-10-30
 :summary: Course outline and boilerplate
